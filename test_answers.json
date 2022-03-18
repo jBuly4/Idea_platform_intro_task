@@ -1,0 +1,37 @@
+{
+  "test_1": [
+    {
+      "average": "00:00",
+      "percentile_90": "00:00"
+  }],
+  "test_2": [
+    {
+      "average": "03:00",
+      "percentile_90": "03:00"
+  }],
+  "test_3": [
+    {
+      "average": "05:30",
+      "percentile_90": "09:06"
+  }],
+  "test_4": [
+    {
+      "average": "05:30",
+      "percentile_90": "09:06"
+    }
+  ],
+  "test_5": [
+    {
+      "average": "02:00",
+      "percentile_90": "02:00"
+    }
+  ],
+  "test_6": [
+    {
+      "departure_date": "12.05.18",
+      "departure_time": "00:00",
+      "arrival_date": "12.05.18",
+      "arrival_time": "01:00"
+    }
+  ]
+}
