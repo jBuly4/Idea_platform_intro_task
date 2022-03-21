@@ -1,8 +1,8 @@
 import jsonparser
 import statscalculator
 
-TIME_ZONE_DEPARTURE = 10
-TIME_ZONE_ARRIVAL = 2
+TIME_ZONE_DEPARTURE = 0
+TIME_ZONE_ARRIVAL = 0
 
 
 def main():
